@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "C001",
+    "purchase_amount": 1200,
+    "total_orders": 4,
+    "tenure_months": 8
+  },
+  {
+    "customer_id": "C002",
+    "purchase_amount": 900,
+    "total_orders": 2,
+    "tenure_months": 6
+  },
+  {
+    "customer_id": "C003",
+    "purchase_amount": 2400,
+    "total_orders": 6,
+    "tenure_months": 14
+  },
+  {
+    "customer_id": "C004",
+    "purchase_amount": 1100,
+    "total_orders": 3,
+    "tenure_months": 10
+  },
+  {
+    "customer_id": "C005",
+    "purchase_amount": 1800,
+    "total_orders": 5,
+    "tenure_months": 12
+  },
+  {
+    "customer_id": "C006",
+    "purchase_amount": 2100,
+    "total_orders": 6,
+    "tenure_months": 15
+  },
+  {
+    "customer_id": "C007",
+    "purchase_amount": 950,
+    "total_orders": 2,
+    "tenure_months": 7
+  },
+  {
+    "customer_id": "C008",
+    "purchase_amount": 3200,
+    "total_orders": 8,
+    "tenure_months": 18
+  },
+  {
+    "customer_id": "C009",
+    "purchase_amount": 1700,
+    "total_orders": 5,
+    "tenure_months": 11
+  },
+  {
+    "customer_id": "C010",
+    "purchase_amount": 800,
+    "total_orders": 2,
+    "tenure_months": 5
+  },
+  {
+    "customer_id": "C011",
+    "purchase_amount": 3600,
+    "total_orders": 9,
+    "tenure_months": 22
+  },
+  {
+    "customer_id": "C012",
+    "purchase_amount": 1300,
+    "total_orders": 3,
+    "tenure_months": 9
+  },
+  {
+    "customer_id": "C013",
+    "purchase_amount": 1600,
+    "total_orders": 4,
+    "tenure_months": 10
+  },
+  {
+    "customer_id": "C014",
+    "purchase_amount": 1000,
+    "total_orders": 2,
+    "tenure_months": 8
+  },
+  {
+    "customer_id": "C015",
+    "purchase_amount": 1500,
+    "total_orders": 4,
+    "tenure_months": 9
+  },
+  {
+    "customer_id": "C016",
+    "purchase_amount": 2500,
+    "total_orders": 7,
+    "tenure_months": 16
+  },
+  {
+    "customer_id": "C017",
+    "purchase_amount": 1400,
+    "total_orders": 3,
+    "tenure_months": 8
+  },
+  {
+    "customer_id": "C018",
+    "purchase_amount": 3400,
+    "total_orders": 9,
+    "tenure_months": 20
+  },
+  {
+    "customer_id": "C019",
+    "purchase_amount": 1900,
+    "total_orders": 5,
+    "tenure_months": 12
+  },
+  {
+    "customer_id": "C020",
+    "purchase_amount": 1150,
+    "total_orders": 3,
+    "tenure_months": 9
+  }
+]

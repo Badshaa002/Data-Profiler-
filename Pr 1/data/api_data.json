@@ -1,0 +1,142 @@
+[
+  {
+    "customer_id": "C001",
+    "app_sessions": 18,
+    "email_click_rate": 0.21,
+    "city": "Mumbai",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C002",
+    "app_sessions": 9,
+    "email_click_rate": 0.11,
+    "city": "Delhi",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C003",
+    "app_sessions": 24,
+    "email_click_rate": 0.28,
+    "city": "Pune",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C004",
+    "app_sessions": 12,
+    "email_click_rate": 0.14,
+    "city": "Hyderabad",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C005",
+    "app_sessions": 20,
+    "email_click_rate": 0.22,
+    "city": "Chennai",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C006",
+    "app_sessions": 22,
+    "email_click_rate": 0.26,
+    "city": "Bengaluru",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C007",
+    "app_sessions": 8,
+    "email_click_rate": 0.1,
+    "city": "Jaipur",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C008",
+    "app_sessions": 29,
+    "email_click_rate": 0.33,
+    "city": "Mumbai",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C009",
+    "app_sessions": 19,
+    "email_click_rate": 0.23,
+    "city": "Ahmedabad",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C010",
+    "app_sessions": 7,
+    "email_click_rate": 0.09,
+    "city": "Lucknow",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C011",
+    "app_sessions": 31,
+    "email_click_rate": 0.37,
+    "city": "Delhi",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C012",
+    "app_sessions": 10,
+    "email_click_rate": 0.12,
+    "city": "Kolkata",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C013",
+    "app_sessions": 17,
+    "email_click_rate": 0.2,
+    "city": "Pune",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C014",
+    "app_sessions": 11,
+    "email_click_rate": 0.13,
+    "city": "Hyderabad",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C015",
+    "app_sessions": 16,
+    "email_click_rate": 0.19,
+    "city": "Chennai",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C016",
+    "app_sessions": 25,
+    "email_click_rate": 0.29,
+    "city": "Bengaluru",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C017",
+    "app_sessions": 13,
+    "email_click_rate": 0.15,
+    "city": "Jaipur",
+    "segment": "At Risk"
+  },
+  {
+    "customer_id": "C018",
+    "app_sessions": 30,
+    "email_click_rate": 0.35,
+    "city": "Mumbai",
+    "segment": "Loyal"
+  },
+  {
+    "customer_id": "C019",
+    "app_sessions": 21,
+    "email_click_rate": 0.24,
+    "city": "Ahmedabad",
+    "segment": "Regular"
+  },
+  {
+    "customer_id": "C020",
+    "app_sessions": 12,
+    "email_click_rate": 0.14,
+    "city": "Lucknow",
+    "segment": "At Risk"
+  }
+]
